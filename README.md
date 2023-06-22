@@ -4,7 +4,8 @@ Truffle Health Assessment
 
 To Run the project, kindly follow to below steps:
 
-Step 1: Download this project from the repository \n
+Step 1: Download this project from the repository 
+
 Step 2: Open the folder in Visual Studio Code IDE
 Step 3: Open a terminal in Visual Studio Code IDE and type -> npm install
 Step 4: In the same terminal, type -> npm install react-router-dom@5
