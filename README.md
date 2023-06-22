@@ -1,6 +1,7 @@
 # medical-bill-react-app-sharon-mary-charles
 
-Truffle Health Assessment
+Truffle Health - Frontend Assessment
+
 
 To Run the project, kindly follow to below steps:
 
@@ -15,5 +16,6 @@ Step 4: In the same terminal, type -> npm install react-router-dom@5
 Step 5: Next, to set up JSON Server, in the same terminal, type -> npx json-server --watch data/db.json --port 8000
 
 Step 6: Finally, to run the project on a browser, type -> npm run start
+
 
 Thank you.
